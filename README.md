@@ -6,11 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/TencentBlueKing/bk-install">
-    <img src="https://img.shields.io/badge/BlueKing-TencentBlueking-0A66C2?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/BlueKing-TencentBlueking-0A66C2?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/zikysc/tg_stock_bot">
-    <img src="https://img.shields.io/badge/Telegram-Stock%20Analysis%20Bot-0A66C2?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-Stock%20Analysis%20Bot-0A66C2?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -79,9 +77,11 @@
 
 <p align="center">
   <a href="https://github.com/zikysc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=zikysc&color=0A66C2&style=flat-square&label=Profile+Views" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:zikysc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/zikysc">
+    <img src="https://komarev.com/ghpvc/?username=zikysc&color=0A66C2&style=flat-square&label=Profile+Views"/></a>
 </p>
