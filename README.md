@@ -1,7 +1,7 @@
 ![zikysc](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi-nl-I'm%20ziky&reversal=true&fontSize=50&textBg=false)
 
 <h2 align="center">
-☸️ Operations Engineer | Platform Engineer | Kubernetes • Observability • Infrastructure Automation
+☸️ Operations Engineer | Platform Engineer | Kubernetes • Observability
 </h2>
 
 <p align="center">
@@ -15,13 +15,12 @@
 
 # 👋 About Me
 
-云原生 DevOps / Platform Engineer，专注于构建高可用、自动化、可观测的生产级基础设施。
+专注于构建高可用、自动化、可观测
 
-- 长期维护生产级 Kubernetes 集群，涉及 HA、etcd 灾备、网络双栈、Ingress、GPU 调度等场景
+- 长期维护生产级 Kubernetes 集群，涉及 HA、etcd、网络双栈、Ingress等场景
 - 设计并实施企业级 CI/CD 自动化流水线，覆盖构建、测试、发布与回滚全链路
 - 构建 Prometheus + Grafana + ELK 可观测体系，实现指标、日志、告警统一治理
 - 熟悉 Linux 系统、TCP/IP、HTTP/HTTPS、容器网络与 Kubernetes 网络模型
-- 推动基础设施即代码（IaC）实践，使用 Terraform / Ansible 实现自动化交付
 - 持续关注云原生生态与前沿技术方向：eBPF、OpenTelemetry、Cilium、AIOps 等
 
 ---
@@ -54,7 +53,7 @@
 
 | Project | Stack | Achievement |
 |---|---|---|
-| **Kubernetes Disaster Recovery Architecture** | Kubernetes / Velero / etcd Backup | 构建生产级集群灾备体系，实现分钟级恢复能力，提升集群可靠性 |
+| **Kubernetes Architecture** | Kubernetes  | 构建生产级集群，提升集群可靠性 |
 | **Kubernetes Full-Stack Monitoring Platform** | Prometheus / Grafana / Alertmanager | 覆盖节点、Pod、服务监控与告警，快速定位性能瓶颈与异常 |
 | **Kubernetes IPv4/IPv6 Dual-Stack Adaptation** | CNI / Dual Stack Networking | 完成 IPv4/IPv6 双栈适配，为云原生网络升级提供基础能力 |
 | **BlueKing Kubernetes Deployment Transformation** | Helm / Helmfile / Operator | 推动传统部署模式向容器化迁移，提升扩展性与运维效率 |
