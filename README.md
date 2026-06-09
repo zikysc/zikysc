@@ -1,7 +1,7 @@
 ![zikysc](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi-nl-I'm%20ziky&reversal=true&fontSize=50&textBg=false)
 
 <h2 align="center">
-☸️ Operations Engineer | Platform Engineer | Kubernetes • Observability
+☸️ Operations Engineer | Kubernetes • Observability
 </h2>
 
 <p align="center">
